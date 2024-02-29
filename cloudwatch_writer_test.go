@@ -11,7 +11,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
-	"github.com/mec07/cloudwatchwriter"
+	"github.com/j-muller/cloudwatchwriter"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )
